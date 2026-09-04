@@ -131,7 +131,7 @@ input[type="date"],
 
 input[type="password"] {
 
-    width: 100%;
+    width: 60%;
 
     max-width: 350px;
 
@@ -248,7 +248,6 @@ input[type="submit"] {
     padding: 10px 25px;
 
     border: 2px solid #1565c0;
-
     border-radius: 5px;
 
     cursor: pointer;
